@@ -18,7 +18,6 @@ O site tem o objetivo de servir como **cartão de visitas online**, apresentando
 - HTML5  
 - CSS3  
 - JavaScript  
-- (opcional: PHP, se tiver algum uso)
 
 ---
 
@@ -31,5 +30,19 @@ O site tem o objetivo de servir como **cartão de visitas online**, apresentando
 
 ---
 
-## 📦 Estrutura do projeto
+## 🎯 Objetivo
 
+Oferecer uma presença online simples e funcional para o petshop **Papaleguas Agropet**, permitindo que clientes encontrem facilmente informações sobre a loja.
+
+---
+
+## 📄 Licença
+
+Código aberto sob licença MIT.  
+Você pode utilizar este modelo como base para outros projetos.
+
+---
+
+## 👨‍💻 Desenvolvido por
+
+[Lucas Voltareli](https://github.com/lucasvoltareli)
